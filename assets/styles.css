@@ -1,0 +1,19 @@
+.banner{
+    height: 100%;
+    width: 1440;
+    height: 652;
+    background-image: url(Hero-bg.png);
+    background-size: cover;
+    margin-top: 100px;
+    text-align: center;
+    
+}
+#btn{
+   width: 208px;
+   height: 66px;
+   font-weight: bold;
+   color: white;
+   background-color: black;
+   border-radius: 10px;
+
+}
