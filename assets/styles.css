@@ -58,3 +58,18 @@
     display: flex;
     justify-content: space-between;
 }
+#yt1{
+    /* Rectangle 1 */
+position: static;
+width: 1076px;
+height: 550px;
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+margin: 10px 0px;
+}
+.my_ins{
+    text-align: center;
+}
